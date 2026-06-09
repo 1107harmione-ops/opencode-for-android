@@ -115,7 +115,7 @@ opencode
 ## Credits
 
 - **[anomalyco](https://github.com/anomalyco/opencode)** — The original creator and maintainer of [OpenCode](https://opencode.ai), the open source AI coding agent.
-- **Minaty001** — For the Android adaptation guide and testing OpenCode on mobile devices.
+- [**Minaty001**](https://github.com/Minaty001) — For the Android adaptation guide and testing OpenCode on mobile devices.
 
 ---
 
